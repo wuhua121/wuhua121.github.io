@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 课程所培养的研究生论文发表情况：
+title: 研究生论文成果
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 ---
