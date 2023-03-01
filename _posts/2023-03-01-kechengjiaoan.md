@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 课程教案
-subtitle: 课堂内容组织
+subtitle: 包含课程内容、课程要求及成绩评定等
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
