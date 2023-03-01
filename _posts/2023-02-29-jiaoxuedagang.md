@@ -1,10 +1,6 @@
 ---
-layout: post
-title: 教学大纲
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+title: Contact me
+subtitle: Here you'll find all the ways to get in touch with me
 ---
 # **《资源与环境遥感》课程教学大纲**
 
