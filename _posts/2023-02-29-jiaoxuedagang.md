@@ -1,6 +1,5 @@
 ---
-title: Contact me
-subtitle: Here you'll find all the ways to get in touch with me
+title: 教学大纲
 ---
 # **《资源与环境遥感》课程教学大纲**
 
@@ -8,13 +7,13 @@ subtitle: Here you'll find all the ways to get in touch with me
 
  
 
-## 二、课程简介（500字以内）
+## 二、课程简介
 
 **教学目的：**
 
 培养学生深入理解遥感地学分析相关的基本理论和技术方法，了解遥感技术在不同地学场景下的应用模式，掌握多种陆表地理参量的遥感反演理论和方法，让学生掌握资源环境遥感的基本方法和技能，为后续空间生态环境研究奠定基础和提供指导。
 
-资源环境与遥感课程核心内容包括植被遥感、水体遥感、大气遥感、城市遥感等专题内容。
+资源环境与遥感课程**核心内容**包括植被遥感、水体遥感、大气遥感、城市遥感等专题内容。
 
 **教学要求：**
 
@@ -27,6 +26,7 @@ subtitle: Here you'll find all the ways to get in touch with me
  
 
 ## **三、**课程内容与学时分配
+
 
 | 内容                       | 学时 |
 | -------------------------- | ---- |
