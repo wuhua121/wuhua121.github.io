@@ -23,7 +23,7 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-## 英文教学论文  
+## 硕士SCI论文  
 
 
 
