@@ -4,7 +4,7 @@ title: 教学参考资料目录
 subtitle: 包含参考书目和参考论文
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/night_light.jpg
+thumbnail-img: /assets/img/thumb.jpg
 ---
 
 ## 参考书目
