@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 研究生论文成果
+subtitle: 包含2020-2022年的中英文研究成果
 cover-img: /assets/img/path.jpg
 thumbnail-img: assets/img/sea_city.jpg
 ---

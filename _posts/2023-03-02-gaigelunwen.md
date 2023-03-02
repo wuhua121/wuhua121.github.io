@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 教师教学改革论文
-subtitle: 中文教学论文和SCI论文
+subtitle: 包含中文教学论文和SCI论文
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/fire.jpg
@@ -9,6 +9,9 @@ thumbnail-img: /assets/img/fire.jpg
 
 
 ## 中文教学论文
+
+
+
 
 |                   曾超                   |                       陈奕云                       |                             费腾                             |                  黄文丽                  |                  李慧芳                  |                        沈焕锋                         |
 | :--------------------------------------: | :------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------: | :--------------------------------------: | :---------------------------------------------------: |
@@ -20,7 +23,7 @@ thumbnail-img: /assets/img/fire.jpg
 
 
 
-## 英文教学论文
+## 英文教学论文  
 
 
 
@@ -29,6 +32,10 @@ thumbnail-img: /assets/img/fire.jpg
 #### 曾超
 
 - Performance  comparison of Fengyun-4A and Himawari-8 in PM2.5 estimation in China
+
+
+
+
 
 
 
@@ -72,6 +79,10 @@ thumbnail-img: /assets/img/fire.jpg
 
 
 
+
+
+
+
 #### 费腾	
 
 - Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra
@@ -87,6 +98,10 @@ thumbnail-img: /assets/img/fire.jpg
   
 
 - Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan
+
+
+
+
 
 
 
@@ -108,9 +123,17 @@ thumbnail-img: /assets/img/fire.jpg
 
 
 
+
+
+
+
 #### 李慧芳	
 
 - Cloud-covered MODIS LST reconstruction by combining assimilation data and remote sensing data through a nonlocality-reinforced network
+
+
+
+
 
 
 

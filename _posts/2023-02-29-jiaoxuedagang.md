@@ -1,5 +1,6 @@
 ---
 title: 教学大纲
+subtitle: 包含课程描述、课程简介和学时分配等
 cover-img: /assets/img/path.jpg
 thumbnail-img: assets/img/farmland.jpg
 share-img: /assets/img/path.jpg
