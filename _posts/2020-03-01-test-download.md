@@ -8,4 +8,4 @@ tags: [test]
 comments: true
 ---
 
-[点击就送全套课程ppt](/assets/kecheng/%E6%B5%8B%E8%AF%95.txt) 
+[测试能否下载RAR文件](/assets/kecheng/%E6%B5%8B%E8%AF%95RAR.rar) 
