@@ -29,7 +29,7 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-#### 曾超
+### 曾超
 
 - Performance  comparison of Fengyun-4A and Himawari-8 in PM2.5 estimation in China
 
@@ -41,7 +41,7 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-#### 陈奕云	
+### 陈奕云	
 
 - Accessibility of Park Green Space in Wuhan, China- Implications for Spatial Equity in the Post-COVID-19 Era
 
@@ -83,7 +83,7 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-#### 费腾	
+### 费腾	
 
 - Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra
 
@@ -107,7 +107,7 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-#### 黄文丽	
+### 黄文丽	
 
 - Analysis of the urban turbidity island effect a case study in Beijing City, China
 
@@ -127,7 +127,7 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-#### 李慧芳	
+### 李慧芳	
 
 - Cloud-covered MODIS LST reconstruction by combining assimilation data and remote sensing data through a nonlocality-reinforced network
 
@@ -137,7 +137,7 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-#### 沈焕锋
+### 沈焕锋
 
 - A remote sensing assessment index for urban ecological livability and its application
 
