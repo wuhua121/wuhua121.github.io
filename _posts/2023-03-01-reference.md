@@ -4,6 +4,7 @@ title: 教学参考资料目录
 subtitle: 包含参考书目、参考论文及课外阅读期刊推荐
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/night_light.jpg
 ---
 
 ## 参考书目

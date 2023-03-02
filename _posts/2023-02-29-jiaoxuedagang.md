@@ -1,5 +1,8 @@
 ---
 title: 教学大纲
+cover-img: /assets/img/path.jpg
+thumbnail-img: assets/img/farmland.jpg
+share-img: /assets/img/path.jpg
 ---
 
 ## 一、**课程基本信息**

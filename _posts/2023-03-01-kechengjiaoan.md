@@ -3,7 +3,7 @@ layout: post
 title: 课程教案
 subtitle: 包含课程内容、课程要求及成绩评定等
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: assets/img/tree_river.jpg
 share-img: /assets/img/path.jpg
 ---
 <style>
