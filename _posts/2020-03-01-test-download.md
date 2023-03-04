@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Test Download
-subtitle: 点击下载ppt的测试页面
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+title: 课程配套PPT
+subtitle: 包含压缩的配套ppt
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/tian.jpg
+share-img: /assets/img/path.jpg
 ---
 
-[课程PPT下载](/assets/kecheng/%E8%B5%84%E6%BA%90%E4%B8%8E%E7%8E%AF%E5%A2%83%E9%81%A5%E6%84%9F3%E8%AF%BEPPT.rar) 
+[下载课程PPT](链接：https://pan.baidu.com/s/1SV8VgWUYw2DIynv3nWnh7A?pwd=zyRS) 
+
+提取码：zyRS
