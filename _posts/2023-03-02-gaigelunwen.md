@@ -10,8 +10,8 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 ## 中文教学论文
 
-
-
+<br>
+<br>
 
 |                   曾超                   |                       陈奕云                       |                             费腾                             |                  黄文丽                  |                  李慧芳                  |                        沈焕锋                         |
 | :--------------------------------------: | :------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------: | :--------------------------------------: | :---------------------------------------------------: |
@@ -24,7 +24,8 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 ## 硕士SCI论文  
-
+<br>
+<br>
 
 
 
@@ -39,7 +40,8 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-
+<br>
+<br>
 
 ### 陈奕云	
 
@@ -82,7 +84,8 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-
+<br>
+<br>
 ### 费腾	
 
 - Estimating cadmium-lead concentrations in rice blades through fractional order derivatives of foliar spectra
@@ -106,7 +109,8 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-
+<br>
+<br>
 ### 黄文丽	
 
 - Analysis of the urban turbidity island effect a case study in Beijing City, China
@@ -125,8 +129,8 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-
-
+<br>
+<br>
 ### 李慧芳	
 
 - Cloud-covered MODIS LST reconstruction by combining assimilation data and remote sensing data through a nonlocality-reinforced network
@@ -136,7 +140,8 @@ thumbnail-img: /assets/img/green_lake.jpg
 
 
 
-
+<br>
+<br>
 ### 沈焕锋
 
 - A remote sensing assessment index for urban ecological livability and its application
