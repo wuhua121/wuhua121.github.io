@@ -5,7 +5,12 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: assets/img/farmland.jpg
 share-img: /assets/img/path.jpg
 ---
-
+<style>
+table
+{
+    margin: auto;
+}
+</style>
 ## 一、**课程基本信息**
 
 ###  课程描述  
