@@ -493,7 +493,7 @@ footer .footer-custom-content {
   display: none;
 }
 .post-heading .post-meta {
-  display: inline-block;
+  display: none;
 }
 @media (max-width: 767px) {
   .post-heading .post-meta {
