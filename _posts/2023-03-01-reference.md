@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/thumb.png
 ---
 
 ## 参考书目
-
+<p></p>
 
 
 1. 定量遥感:理念与算法，梁顺林等著，科学出版社,2013
@@ -25,12 +25,12 @@ thumbnail-img: /assets/img/thumb.png
 
 4. Key, C. and N. Benson, N. "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index." *FIREMON: Fire Effects Monitoring and Inventory System*, RMRS-GTR, Ogden, UT: USDA Forest Service, Rocky Mountain Research Station (2005).
 
- 
+<br>
 
  
 
 ## 参考论文
-
+<p></p>
 
 
 1. Wang, L., Bie, W., Li, H., Liao, T., Ding, X., Wu, G., Fei, T.*, (2022). Small Water Body Detection and Water Quality Variations with Changing Human Activity Intensity in Wuhan. Remote Sensing 14, 22.
