@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 教师教学改革论文
-subtitle: 包含中文教学论文和硕士SCI论文
+subtitle: 包含pdf版的教学论文
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/green_lake.jpg
