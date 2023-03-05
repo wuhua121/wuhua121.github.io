@@ -11,6 +11,7 @@ html {
 }
 
 body {
+  
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
@@ -18,9 +19,11 @@ body {
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
+  background-size: cover;
   background-attachment: fixed;
   {% endif %}
   overflow-wrap: break-word;
+
 }
 p {
   line-height: 1.5;
